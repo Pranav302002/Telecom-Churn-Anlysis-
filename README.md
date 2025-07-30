@@ -6,7 +6,7 @@ This Power BI dashboard provides a visual analysis of churn patterns.
 - 🔹 Churned Customers: 1,869
 - 🔹 Key Insights: Higher churn in monthly contracts, lack of tech support
 
-![Dashboard Preview](dashnoard.png)
+![Dashboard Preview](DASHBOARD.jpg)
 
 Built using Microsoft Power BI.
 
